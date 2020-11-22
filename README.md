@@ -9,6 +9,11 @@ Calcular Gasto Semanal
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://cartelerafilms.herokuapp.com/)
+[Visita el proyecto](https://miguelpl32.github.io/GastoSemanal/)
 
 ![](portada-gastosemanal.jpg)
+
+## Tecnologías
++ Javascript
++ Bootstrap
++ CSS
